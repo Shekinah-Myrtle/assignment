@@ -20,12 +20,15 @@ class scalar:
         multiply=self.value*value_1.value
         return multiply
     
-    def power(self,exponent)
+    def power(self,exponent):
         power= self.value**exponent.value
         return power
     
     def exponent(self):
         exponent=s
+
+    def size(self)
+        
 
     
 
